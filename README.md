@@ -52,7 +52,8 @@ P.S.: For some sample  video and audio, kindly click [here](https://drive.google
 * After adding any feature:
 	* Goto your fork and create a pull request.
 	* I will test your modifications and merge changes.
-	
-#### `This project was done in my free time under 4 hours with no pre-preparation.`
+
+This project was done `in my free time under 4 hours with no pre-preparation.`
+
 ---
-### **Developed with :heart: by [Arghyadeep Das](https://github.com/arghyadeep99)**
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/arghyadeep99">Arghyadeep Das</a> </b></h1>
