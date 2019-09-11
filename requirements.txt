@@ -1,0 +1,6 @@
+librosa
+moviepy
+IPython
+ffmpeg
+ffmpeg-python
+
