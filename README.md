@@ -1,4 +1,16 @@
-# :football: Sports Highlights Generator :cricket:
+
+<h1 align="center">:football: Sports Highlights Generator :cricket:</h1>
+
+<div align="center">
+
+<br>
+
+[![made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+<br>
+
+</div>
+
 
 Whether it's cricket, or football, we always wish to watch the highlights of the match we missed or watch the highlights of our favorite matches again and again! 
 What better way than to generate your own? :smile:
@@ -41,6 +53,6 @@ P.S.: For some sample  video and audio, kindly click [here](https://drive.google
 	* Goto your fork and create a pull request.
 	* I will test your modifications and merge changes.
 	
-#### `This project was done under 4 hours with no pre-preparation.`
+#### `This project was done in my free time under 4 hours with no pre-preparation.`
 ---
 ### **Developed with :heart: by [Arghyadeep Das](https://github.com/arghyadeep99)**
